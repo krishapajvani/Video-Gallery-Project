@@ -17,6 +17,9 @@ A responsive and interactive YouTube Video Gallery Web App built with:
 - Responsive design (Bootstrap 5)
 - Clean and minimal UI
 
+🔗 Live Demo
+http://localhost/video_gallery/
+
 ## 🛠️ Tech Stack
 - PHP
 - MySQL
