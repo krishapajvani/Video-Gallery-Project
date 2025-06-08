@@ -27,3 +27,11 @@ http://localhost/video_gallery/
 - JavaScript, AJAX
 - YouTube Iframe API
 
+## 🚀 How to Run
+1. Clone the repo
+2. Import the `videogallery.sql` database
+3. Update `db.php` with your DB credentials
+4. Run `localhost/project-folder` in browser
+5. Admin panel username : admin
+               password : admin123
+
